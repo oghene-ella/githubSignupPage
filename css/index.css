@@ -20,7 +20,7 @@ body{
     border-radius:30px;
     box-sizing: border-box;
     background-color: black;
-    box-shadow:14px 14px 20px rgb(7,7,7), -14px -14px 20px rgb(7,7,7);
+    box-shadow:14px 14px 20px rgb(20,20,20), -14px -14px 20px rgb(20,20,20);
 }
 .logo{
     width:98px;
@@ -29,7 +29,7 @@ body{
     margin: auto;
     background-image:url('../img/github4.png');
     box-sizing:border-box;
-    box-shadow: 7px 7px 10px rgb(12,12,12), -7px -7px 10px rgb(12,12,12);
+    box-shadow: 7px 7px 10px rgb(17,17,17), -7px -7px 10px rgb(17,17,17);
 }
 h3{
     margin-top:10px;
